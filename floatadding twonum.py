@@ -1,0 +1,6 @@
+a=input("first number:")
+b=input("second number: ")
+c=input("third number: ")
+d=input("fourth number: ")
+madhu=(float(a)+float(b)+float(c)+float(d))
+print(madhu)
